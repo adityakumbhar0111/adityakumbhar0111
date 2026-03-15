@@ -1,3 +1,7 @@
+<p align="center">
+<img src="Banner.png">
+</p>
+
 # Hi 👋, I'm Aditya
 
 ### 🚀 Java Full Stack Developer | Spring Boot | React | REST APIs
