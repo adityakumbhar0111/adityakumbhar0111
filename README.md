@@ -195,9 +195,7 @@
 # 👀 Profile Visitors
 
 <p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=adityakumbhar0111&icon=0&color=0"/>
-
+<img src="https://komarev.com/ghpvc/?username=adityakumbhar0111&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
